@@ -1,4 +1,6 @@
 # 팬 데이터를 이용한 팬 등급 세분화
+* 기업 요청에 따라 데이터 및 코드 비공개
+
 감정분석 data : https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=86
 
 ## DATA
